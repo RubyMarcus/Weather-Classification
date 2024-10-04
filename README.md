@@ -3,7 +3,7 @@ Weather Image Classification Using Deep Learning Models
 Overview
 --------
 
-This project uses different deep learning models—DenseNet121, GoogLeNet, and EfficientNet—to classify weather conditions from images. The dataset includes various weather types such as rain, snow, and cloudy conditions. The goal was to compare the performance of these models and evaluate their accuracy in weather classification.
+This project uses different deep learning models, DenseNet121, GoogLeNet, and EfficientNet, to classify weather conditions from images. The dataset includes various weather types such as rain, snow, and cloudy conditions. The goal was to compare the performance of these models and evaluate their accuracy in weather classification.
 
 Models
 ------
